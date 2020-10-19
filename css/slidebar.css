@@ -1,0 +1,14 @@
+.container-slides{
+    width: 565px;
+    height: 304px;
+    overflow: hidden; 
+}
+
+#slides{
+    transition: 2s all;
+}
+
+.slide{
+    width: 565px;
+    height: 304px;
+}
